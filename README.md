@@ -1,2 +1,0 @@
-# reading-sicp
-learning sicp
